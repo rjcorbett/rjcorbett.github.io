@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+#mc_embed_signup {
+	align-content: center;
+	font-weight: bold;
+}
+
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+
+.jumbotron {
+	background-color:transparent;
+	text-align: right;
+	font-weight: bold;
+}
+
+#button {
+	transition: width 2s;
+}
+
+#button:hover {
+	width: 150px;
+}
